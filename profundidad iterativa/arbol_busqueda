@@ -1,0 +1,51 @@
+digraph {
+	inicio_0 [label=inicio_0]
+	derecha_1 [label=derecha_1]
+	inicio_0 -> derecha_1
+	abajo_3 [label=abajo_3]
+	inicio_0 -> abajo_3
+	izquierda_4 [label=izquierda_4]
+	inicio_0 -> izquierda_4
+	izquierda_4 [label=izquierda_4]
+	abajo_3 [label=abajo_3]
+	derecha_1 [label=derecha_1]
+	izquierda_4 [label=izquierda_4]
+	abajo_7 [label=abajo_7]
+	izquierda_4 -> abajo_7
+	abajo_7 [label=abajo_7]
+	abajo_3 [label=abajo_3]
+	abajo_9 [label=abajo_9]
+	abajo_3 -> abajo_9
+	derecha_10 [label=derecha_10]
+	abajo_3 -> derecha_10
+	izquierda_11 [label=izquierda_11]
+	abajo_3 -> izquierda_11
+	izquierda_11 [label=izquierda_11]
+	derecha_10 [label=derecha_10]
+	abajo_9 [label=abajo_9]
+	derecha_1 [label=derecha_1]
+	abajo_15 [label=abajo_15]
+	derecha_1 -> abajo_15
+	derecha_16 [label=derecha_16]
+	derecha_1 -> derecha_16
+	derecha_16 [label=derecha_16]
+	abajo_15 [label=abajo_15]
+	derecha_16 [label=derecha_16]
+	abajo_18 [label=abajo_18]
+	derecha_16 -> abajo_18
+	derecha_19 [label=derecha_19]
+	derecha_16 -> derecha_19
+	derecha_19 [label=derecha_19]
+	abajo_18 [label=abajo_18]
+	abajo_15 [label=abajo_15]
+	abajo_21 [label=abajo_21]
+	abajo_15 -> abajo_21
+	derecha_23 [label=derecha_23]
+	abajo_15 -> derecha_23
+	izquierda_24 [label=izquierda_24]
+	abajo_15 -> izquierda_24
+	izquierda_24 [label=izquierda_24]
+	derecha_23 [label=derecha_23]
+	abajo_21 [label=abajo_21]
+	solucion_21 [label=solucion_21]
+}
